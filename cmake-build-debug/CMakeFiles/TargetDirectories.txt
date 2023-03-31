@@ -1,0 +1,3 @@
+C:/Users/Ciro/CLionProjects/ejercicio0.5/cmake-build-debug/CMakeFiles/ejercicio0_5.dir
+C:/Users/Ciro/CLionProjects/ejercicio0.5/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ciro/CLionProjects/ejercicio0.5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
